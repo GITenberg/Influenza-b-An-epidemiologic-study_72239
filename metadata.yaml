@@ -1,0 +1,33 @@
+_repo: Influenza-b-An-epidemiologic-study_72239
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaughan, Warren T. (Warren Taylor)
+    alias: Vaughan, Warren Taylor
+    birthdate: 1893
+    deathdate: 1944
+    gutenberg_agent_id: '56562'
+    url: http://www.gutenberg.org/2009/agents/56562
+description: ''
+gutenberg_issued: '2023-11-27'
+identifiers:
+  gutenberg: '72239'
+  lccn: '21016564'
+language: en
+pgterms:marc904: https://archive.org/details/influenzaepidemi00vaug
+pgterms:marc905: 20180531102251vaughan
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBaltimore :$bThe American journal of hygiene, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: American journal of hygiene. Monographic series, no. 1
+subjects:
+- !lcsh 'Influenza'
+- !lcc 'RC'
+- GITenberg
+title: 'Influenza : $b An epidemiologic study'
+url: http://www.gutenberg.org/ebooks/72239
